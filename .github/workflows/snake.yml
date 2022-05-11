@@ -1,17 +1,17 @@
-nome : Gerar Dados
+name : Gerar Dados
 
-em :
-  schedule : # executa a cada 12 horas
--cron     : " * */10 * * * "
-  workflow_dispatch :
+on :
+  schedule: # executa a cada 12 horas
+    -cron: " * */12 * * * "
+  workflow_dispatch:
 
-empregos :
-  construir :
+jobs :
+  build :
     name : Jobs para atualizar dados
-    run-on : ubuntu-latest
-    passos :
+    runs-on : ubuntu-latest
+    steps :
       # Animação de cobra
-      - usa : Platane/snk@master
+      - uses : Platane/snk@master
         id : cobra-gif
         com :
           github_user_name : akoruudev
