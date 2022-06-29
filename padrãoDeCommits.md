@@ -26,7 +26,7 @@ Esta área é usada exclusivamente quando o projeto em questão é desenvolvida 
 Lembre-se sempre de colocar a descrilção de todas as edilções que foram feitas
 
 # TIPOS
-### Vou te mostrar agora, todos os TIPOS relevantes por enquanto e para que cada um serve
+### Abaixo será mostrado todos os TIPOS relevantes por enquanto e para que cada um serve
 
 #### FIX
 <img alt="FIX" height="150px" src="src/images/padrão de commits/FIX.png"/>
