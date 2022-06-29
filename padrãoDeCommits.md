@@ -5,4 +5,4 @@ Isso se torna ainda mais importante quando se trata de projetos que envolvam mai
 
 ### Abaixo será mostrado um padrão de commits que podem ser seguidos por quem desejar a fim de facilitar a visualização dos commits por outros Devs
 
-<img alt="FIX" src="src/images/padrão de commits"/>
+<img alt="FIX" src="src/images/padrão de commits/Bas Git.png"/>
