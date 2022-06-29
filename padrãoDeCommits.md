@@ -29,31 +29,31 @@ Lembre-se sempre de colocar a descrilção de todas as edilções que foram feit
 ### Vou te mostrar agora, todos os TIPOS relevantes por enquanto e para que cada um serve
 
 #### FIX
-<img alt="FIX" src="src/images/padrão de commits/FIX.png"/>
+<img alt="FIX" height="150px" src="src/images/padrão de commits/FIX.png"/>
 
 #### FEAT 
-<img alt="FEAT" src="src/images/padrão de commits/Bas Git.png"/>
+<img alt="FEAT" height="150px" src="src/images/padrão de commits/Bas Git.png"/>
 
 #### BAS
-<img alt="BAS" src="src/images/padrão de commits/BAS.png"/>
+<img alt="BAS" height="150px" src="src/images/padrão de commits/BAS.png"/>
 
 #### STYLE
-<img alt="STYLE" src="src/images/padrão de commits/STYLE.png"/>
+<img alt="STYLE" height="150px" src="src/images/padrão de commits/STYLE.png"/>
 
 #### CHORE
-<img alt="CHORE" src="src/images/padrão de commits/CHORE.png"/>
+<img alt="CHORE" height="150px" src="src/images/padrão de commits/CHORE.png"/>
 
 #### REFACTOR
-<img alt="REFACTOR" src="src/images/padrão de commits/Bas Git.png"/>
+<img alt="REFACTOR" height="150px" src="src/images/padrão de commits/Bas Git.png"/>
 
 #### DOCS
-<img alt="DOCS" src="src/images/padrão de commits/DOCS.png"/>
+<img alt="DOCS" height="150px" src="src/images/padrão de commits/DOCS.png"/>
 
 #### RES
-<img alt="RES" src="src/images/padrão de commits/RES.png"/>
+<img alt="RES" height="150px" src="src/images/padrão de commits/RES.png"/>
 
 #### CORF
-<img alt="CORF" src="src/images/padrão de commits/CORF.png"/>
+<img alt="CORF" height="150px" src="src/images/padrão de commits/CORF.png"/>
 
 ### Abaixo será demonstrado alguns exemplos de commits utilizando o padrão explicado acima
 
