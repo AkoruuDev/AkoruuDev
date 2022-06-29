@@ -24,3 +24,14 @@ Esta área é usada exclusivamente quando o projeto em questão é desenvolvida 
 <strong>Descrição da commitagem - </strong>logo depois dos dois pontos : é descrito todas as edições que foram feitas dentro daquele commit sendo separadas por ponto e virgula ; de edição para edição;
 É interessante dizer que, nesta área, toda a descrição deve ser feita no infinitivo (final ar, er, ir);
 Lembre-se sempre de colocar a descrilção de todas as edilções que foram feitas
+
+### Abaixo será demonstrado alguns exemplos de commits utilizando o padrão explicado acima
+
+<img alt="Exp Git" src="src/images/padrão de commits/Exp Git.png"/>
+
+Como pode ver acima, há 3 (três) exemplos de commits utilizando o mesmo padrão;
+O primeiro se trata de um Commit feito com a edição do tipo STYLE na área de Login e, logo depois do nome do DEV que fez o comentário, há a descrição detalhada do commit
+
+O segundo trata-se de um commit feito com a edição do tipo DOCS relacionado ao arquivo README.md. Este commit, diferente do primeiro, não há a área de GitHuvDev, o que quer dizer que, para este projeto, existe apenas a eddição de um único DEV, que também é o dono do repositório. Na descrição detalhada, mostra que, o que foi feito, foi a criação do arquivo
+
+Já o terceito, também feito pelo usuário dono do repositório, também é do tipo DOCS e de escopo sobre a Database. Nele, diferente dos outros, há vários itens de edição, todos feitos no infinitivo (final ar, er, ir) e separados por ponto e virgula ; como instruído acima;
