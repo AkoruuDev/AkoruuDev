@@ -5,7 +5,7 @@ Isso se torna ainda mais importante quando se trata de projetos que envolvam mai
 
 ### Abaixo será mostrado um padrão de commits que podem ser seguidos por quem desejar a fim de facilitar a visualização dos commits por outros Devs
 
-<img alt="FIX" src="src/images/padrão de commits/Bas Git.png"/>
+<img alt="Bas Git" src="src/images/padrão de commits/Bas Git.png"/>
 
 A parte <strong>git commit -m</strong> já é padrão para o lançamento de commits via terminal e tudo aquilo que está depois entre " " será organizado com o padrão apresentado aqui neste arquivo
 
@@ -24,6 +24,36 @@ Esta área é usada exclusivamente quando o projeto em questão é desenvolvida 
 <strong>Descrição da commitagem - </strong>logo depois dos dois pontos : é descrito todas as edições que foram feitas dentro daquele commit sendo separadas por ponto e virgula ; de edição para edição;
 É interessante dizer que, nesta área, toda a descrição deve ser feita no infinitivo (final ar, er, ir);
 Lembre-se sempre de colocar a descrilção de todas as edilções que foram feitas
+
+# TIPOS
+### Vou te mostrar agora, todos os TIPOS relevantes por enquanto e para que cada um serve
+
+#### FIX
+<img alt="FIX" src="src/images/padrão de commits/FIX.png"/>
+
+#### FEAT 
+<img alt="FEAT" src="src/images/padrão de commits/Bas Git.png"/>
+
+#### BAS
+<img alt="BAS" src="src/images/padrão de commits/BAS.png"/>
+
+#### STYLE
+<img alt="STYLE" src="src/images/padrão de commits/STYLE.png"/>
+
+#### CHORE
+<img alt="CHORE" src="src/images/padrão de commits/CHORE.png"/>
+
+#### REFACTOR
+<img alt="REFACTOR" src="src/images/padrão de commits/Bas Git.png"/>
+
+#### DOCS
+<img alt="DOCS" src="src/images/padrão de commits/DOCS.png"/>
+
+#### RES
+<img alt="RES" src="src/images/padrão de commits/RES.png"/>
+
+#### CORF
+<img alt="CORF" src="src/images/padrão de commits/CORF.png"/>
 
 ### Abaixo será demonstrado alguns exemplos de commits utilizando o padrão explicado acima
 
