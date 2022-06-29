@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Bem-vindo(a) ao perfil do Akoruu Dev 😁
 
 <div>
@@ -14,13 +16,14 @@
     <img align="center" alt="Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg ">
   </div>
 </div>
+</div>
  
- <br>
+<br>
  
-  ## Estudante de café sem açúcar
-  ### Testando uma coisa nova todo dia!
+## Estudante de café sem açúcar
+### Testando uma coisa nova todo dia!
  
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
  
  #### Me acompanha lá nas redes sociais :)
  
@@ -34,7 +37,7 @@
   <a href="https://www.linkedin.com/in/akoruudev/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="50" target="_blank"></a>
  
  
- <!--
-  ![Animação de cobra](https://github.com/akoruudev/akoruudev/blob/output/github-contribution-grid-snake.svg)
--->
+  <!--
+    ![Animação de cobra](https://github.com/akoruudev/akoruudev/blob/output/github-contribution-grid-snake.svg)
+  -->
 </div>
