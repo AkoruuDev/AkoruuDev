@@ -32,7 +32,7 @@ Lembre-se sempre de colocar a descrilção de todas as edilções que foram feit
 <img alt="FIX" height="150px" src="src/images/padrão de commits/FIX.png"/>
 
 #### FEAT 
-<img alt="FEAT" height="150px" src="src/images/padrão de commits/Bas Git.png"/>
+<img alt="FEAT" height="150px" src="src/images/padrão de commits/FEAT.png"/>
 
 #### BAS
 <img alt="BAS" height="150px" src="src/images/padrão de commits/BAS.png"/>
@@ -44,7 +44,7 @@ Lembre-se sempre de colocar a descrilção de todas as edilções que foram feit
 <img alt="CHORE" height="150px" src="src/images/padrão de commits/CHORE.png"/>
 
 #### REFACTOR
-<img alt="REFACTOR" height="150px" src="src/images/padrão de commits/Bas Git.png"/>
+<img alt="REFACTOR" height="150px" src="src/images/padrão de commits/REFACTOR.png"/>
 
 #### DOCS
 <img alt="DOCS" height="150px" src="src/images/padrão de commits/DOCS.png"/>
