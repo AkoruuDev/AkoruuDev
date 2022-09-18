@@ -1,6 +1,6 @@
 <div align="center">
 
-## Bem-vindo(a) ao perfil do Akoruu Dev 😁
+## Welcome to Akoruu Dev perfil 😁
 
 <div>
   <a href="https://github.com/akoruudev">
@@ -21,12 +21,12 @@
  
 <br>
  
-## Estudante de café sem açúcar
-### Testando uma coisa nova todo dia!
+## A student of sugar-free coffee
+### Testing a new thing all days
  
 <div align="center" style="display: inline_block"><br>
  
- #### Me acompanha lá nas redes sociais :)
+ #### Follow me here :)
  
  <!--
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
