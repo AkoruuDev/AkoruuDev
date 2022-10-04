@@ -1,6 +1,6 @@
 <div align="center">
 
-## Bem-vindo(a) ao perfil do Akoruu Dev 😁
+## Welcome to Akoruu Dev perfil 😁
 
 <div>
   <a href="https://github.com/akoruudev">
@@ -14,18 +14,19 @@
     <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
     <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
     <img align="center" alt="Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg ">
+    <img align="center" alt="React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg ">
   </div>
 </div>
 </div>
  
 <br>
  
-## Estudante de café sem açúcar
-### Testando uma coisa nova todo dia!
+## A student of sugar-free coffee
+### Testing a new thing all days
  
 <div align="center" style="display: inline_block"><br>
  
- #### Me acompanha lá nas redes sociais :)
+ #### Follow me here :)
  
  <!--
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
