@@ -41,9 +41,9 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
  -->
  
-  <a href="https://www.instagram.com/akoruudev/" target="_blank"><img src="https://icon-library.com/images/instagram-icon-png/instagram-icon-png-6.jpg" height="50" target="_blank"></a><t>
+  <a href="https://www.instagram.com/a.rfreitas/" target="_blank"><img src="https://icon-library.com/images/instagram-icon-png/instagram-icon-png-6.jpg" height="50" target="_blank"></a><t>
  <a href="https://discord.gg/p2aPNSqzVZ" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png" height="50" target="_blank"></a><t>
-  <a href = "mailto:akoruu.dev@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="50" destino ="_blank"></a><t>
+  <a href = "mailto:arfreitas.uu@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="50" destino ="_blank"></a><t>
   <a href="https://www.linkedin.com/in/akoruudev/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="50" target="_blank"></a>
  
  
