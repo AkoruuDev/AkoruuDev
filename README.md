@@ -10,6 +10,7 @@
  
 <div style="display: inline_block"><br>
   <div style="justify-content: center;">
+    <img align="center" alt="Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg ">
     <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
     <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
     <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
@@ -22,6 +23,7 @@
     <img align="center" alt="React" height="50" width="60" src="https://axios-http.com/assets/logo.svg ">
     <img align="center" alt="React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg ">
     <img align="center" alt="React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg ">
+    <img align="center" alt="React" height="50" width="60" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4 ">
   </div>
 </div>
 </div>
