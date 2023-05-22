@@ -1,6 +1,6 @@
 <div align="center">
 
-## Welcome to Akoruu Dev perfil 😁
+## Welcome to Akoruu Dev profile 😁
 
 <div>
   <a href="https://github.com/akoruudev">
